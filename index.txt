@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ITMD-361 Internet Technologies and Web Design</title>
+  <title>Internet Technologies and Web Design</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>My name is Amadou Tidiane Kane. I'm from Senegal and I love IT.</p>
+  <p>I have got a bachelor in computer science and I'd like to improve my skills. I have been working in management for 8 years now but I'm more interested in computer science.</p>
+</body>
+</html>
